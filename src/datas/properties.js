@@ -11,26 +11,26 @@ const propertiies = [
     price: "300",
     profit: 15.6,
     returns: 10.21,
-    investors: 534
-  }//,
-  // {
-  //   id: 2,
-  //   images: [building1, building3, building3, building2],
-  //   name: "Building",
-  //   price: "301,000",
-  //   profit: 9.6,
-  //   returns: 12.34,
-  //   investors: 534,
-  // },
-  // {
-  //   id: 3,
-  //   images: [building1, building3, building3, building2],
-  //   name: "Building",
-  //   price: "301,000",
-  //   profit: 3.6,
-  //   returns: 5.37,
-  //   investors: 534
-  // }
-]
+    investors: 534,
+  },
+  {
+    id: 2,
+    images: [building2],
+    name: "Building",
+    price: "201,000",
+    profit: 9.6,
+    returns: 12.34,
+    investors: 534,
+  },
+  {
+    id: 3,
+    images: [building3],
+    name: "Building",
+    price: "301,000",
+    profit: 3.6,
+    returns: 5.37,
+    investors: 534,
+  },
+];
 
 export default propertiies;
